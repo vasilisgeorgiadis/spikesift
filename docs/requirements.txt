@@ -1,5 +1,7 @@
-spikesift
+numpy
+scipy
+tqdm
+cython
 sphinx
 sphinx-rtd-theme
 myst-parser
-numpy
