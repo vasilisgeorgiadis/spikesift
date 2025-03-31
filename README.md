@@ -67,7 +67,7 @@ For more examples, see the [User Guide](https://vasilisgeorgiadis.github.io/spik
 
 📚 Full documentation is available at:
 
-**[https://vasilisgeorgiadis.github.io/spikesift/](https://vasilisgeorgiadis.github.io/spikesift/)**
+**[https://spikesift.readthedocs.io/en/latest/index.html](https://spikesift.readthedocs.io/en/latest/index.html)**
 
 ---
 
