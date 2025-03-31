@@ -1,3 +1,10 @@
+include pyproject.toml
+include setup.py
+include setup.cfg
+include README.md
+include LICENSE
+
 recursive-include spikesift/_cython *.pyx
 recursive-include spikesift/_cython *.c
+
 global-exclude *.pyd *.so *.dll *.dylib
