@@ -59,7 +59,7 @@ for cid in result.cluster_ids():
     print(f"Cluster {cid}: {len(spikes)} spikes")
 ```
 
-For more examples, see the [User Guide](https://vasilisgeorgiadis.github.io/spikesift/user_guide.html) or [Example Usage](https://vasilisgeorgiadis.github.io/spikesift/example_usage.html).
+For more examples, see the [User Guide](https://spikesift.readthedocs.io/en/latest/user_guide.html) or [Example Usage](https://spikesift.readthedocs.io/en/latest/example_usage.html).
 
 ---
 
