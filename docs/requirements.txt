@@ -1,3 +1,5 @@
+spikesift
 sphinx
-sphinx_rtd_theme
+sphinx-rtd-theme
 myst-parser
+numpy
