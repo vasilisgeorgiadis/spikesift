@@ -4,7 +4,7 @@ import sys
 # -- Path setup --------------------------------------------------------------
 
 # Add the project root to sys.path so autodoc can find SpikeSift
-sys.path.insert(0, os.path.abspath('../..'))
+#sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
