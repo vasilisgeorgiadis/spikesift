@@ -21,8 +21,7 @@ SpikeSift performs spike sorting in three main stages:
    merging reduces to a simple, reliable **one-to-one matching problem** --- minimizing the risk of cluster fragmentation.
 
 Each stage is designed for **clarity**, **computational efficiency**, and **robustness to drift** --- without requiring precise drift correction or hardware acceleration.
-
-For a full description of the algorithm, see the SpikeSift preprint (link coming soon).
+For a full description of the algorithm, see `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://arxiv.org/abs/2504.01604>`__.
 
 .. toctree::
    :maxdepth: 1
