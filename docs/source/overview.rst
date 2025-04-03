@@ -21,16 +21,17 @@ The result is a drift-corrected, neuron-by-neuron reconstruction of spiking acti
 Why Use SpikeSift?
 ------------------
 
-SpikeSift is designed for speed, robustness, and flexibility:
+SpikeSift is built for speed, robustness, and clean integration into any workflow:
 
-- **Extremely fast** --- processes thousands of channels in real time 
-- **Resilient to drift** --- handles both slow drift and sudden shifts  
-- **Modular** --- sort in parallel, split/merge segments, track transients  
-- **Easy to use** --- most datasets work out of the box  
-- **Progressive-compatible** --- supports merging results across sessions or files  
-- **Accurate on short recordings** --- retains spike sorting quality even when data is limited
+- **Extremely fast** --- sorts thousands of channels in real time on a single CPU core
+- **Drift-resilient** --- handles both gradual and abrupt electrode drift
+- **Clean and non-intrusive** --- no data copying, no file modifications, no clutter
+- **Modular** --- sort in parallel, split or merge segments, track transients
+- **Drop-in ready** --- works out of the box on most datasets
+- **Session-aware** --- merge across files, append sessions, or sort progressively
+- **Reliable on short recordings** --- maintains accuracy even with limited data
 
-These features make it ideal for real-time analysis, high-throughput pipelines, and exploratory sorting across large datasets.
+These features make SpikeSift ideal for real-time pipelines, high-throughput labs, and large-scale sorting tasks --- even on resource-constrained systems.
 
 What the Documentation Covers
 -----------------------------
@@ -52,4 +53,4 @@ To explore practical workflows, head to :ref:`example_usage`.
     SpikeSift is under active development and continues to improve in accuracy and flexibility.  
     For more details or citations, see the upcoming preprint:
     
-    - (link coming soon)
+    - `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://arxiv.org/abs/2504.01604>`__
