@@ -12,6 +12,8 @@ It delivers **accurate**, **real-time** spike sorting from raw binary data using
 - ⚡ **Parallelizable** across segments  
 - 🧩 **Modular design** — sort, merge, split, and compare segments 
 - 🎯 **Minimal parameter tuning**, even for short recordings
+- 💾 Reads data directly from disk — no need to convert or preprocess
+- 🧽 Clean and non-intrusive — does not modify your data or create intermediate files
 
 ---
 
@@ -65,7 +67,7 @@ For more examples, see the [User Guide](https://spikesift.readthedocs.io/en/late
 
 ## Documentation
 
-📚 Full documentation is available at:
+Full documentation is available at:
 
 **[https://spikesift.readthedocs.io/en/latest/index.html](https://spikesift.readthedocs.io/en/latest/index.html)**
 
@@ -80,7 +82,7 @@ It handles thousands of channels, fragmented recordings, and real-time pipelines
 
 ## Citing SpikeSift
 
-(Preprint coming soon)
+**[SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm](https://arxiv.org/abs/2504.01604)**
 
 ---
 
