@@ -51,7 +51,7 @@ For meaningful results, use a realistic recording with appropriate duration and 
    This is intended as a basic diagnostic.  
    For detailed benchmarks and comparisons, see the upcoming SpikeSift paper:
 
-   - *(link coming soon)*
+   - `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://arxiv.org/abs/2504.01604>`__
 
 Why Is SpikeSift So Fast?
 -------------------------
@@ -66,4 +66,3 @@ SpikeSift's speed comes from its **algorithmic design**, not just low-level opti
 
 This makes SpikeSift suitable for dense probes, short recordings, and high-volume datasets --- 
 even in **real-time** applications, using **a single CPU core** and **minimal memory**.
-
