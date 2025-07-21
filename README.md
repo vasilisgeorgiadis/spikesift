@@ -82,7 +82,7 @@ It handles thousands of channels, fragmented recordings, and real-time pipelines
 
 ## Citing SpikeSift
 
-**[SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm](https://arxiv.org/abs/2504.01604)**
+**[SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm](https://iopscience.iop.org/article/10.1088/1741-2552/adee48)**
 
 ---
 
