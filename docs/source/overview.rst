@@ -53,4 +53,4 @@ To explore practical workflows, head to :ref:`example_usage`.
     SpikeSift is under active development and continues to improve in accuracy and flexibility.  
     For more details or citations, see the upcoming preprint:
     
-    - `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://arxiv.org/abs/2504.01604>`__
+    - `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://iopscience.iop.org/article/10.1088/1741-2552/adee48>`__
