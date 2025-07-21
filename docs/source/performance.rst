@@ -51,7 +51,7 @@ For meaningful results, use a realistic recording with appropriate duration and 
    This is intended as a basic diagnostic.  
    For detailed benchmarks and comparisons, see the upcoming SpikeSift paper:
 
-   - `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://arxiv.org/abs/2504.01604>`__
+   - `SpikeSift: A Computationally Efficient and Drift-Resilient Spike Sorting Algorithm <https://iopscience.iop.org/article/10.1088/1741-2552/adee48>`__
 
 Why Is SpikeSift So Fast?
 -------------------------
